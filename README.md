@@ -15,6 +15,7 @@ wget https://raw.githubusercontent.com/andreboe/PubCode/main/PubCode.ProcessMgr_
 wget https://raw.githubusercontent.com/andreboe/PubCode/main/PubCode.Robocopy_v1.cs
 wget https://raw.githubusercontent.com/andreboe/PubCode/main/PubCode.SubApp_v1.cs
 wget https://raw.githubusercontent.com/andreboe/PubCode/main/PubCode.SubApp_v2.cs
+wget https://raw.githubusercontent.com/andreboe/PubCode/main/PubCode.SubApp_v3.cs
 wget https://raw.githubusercontent.com/andreboe/PubCode/main/PubCode.SysInfo_v1.cs
 wget https://raw.githubusercontent.com/andreboe/PubCode/main/PubCode.UpdateEXE_v1.cs
 
