@@ -1,6 +1,8 @@
 # PubCode
 <pre>
 
+.NET Flavor: .NET Framework 4.8
+
 wget https://raw.githubusercontent.com/andreboe/PubCode/main/PubCode.AppParams_v1.AppParams.cs
 wget https://raw.githubusercontent.com/andreboe/PubCode/main/PubCode.AppParams_v1.Param.cs
 wget https://raw.githubusercontent.com/andreboe/PubCode/main/PubCode.AppParams_v2.AppParams.cs
